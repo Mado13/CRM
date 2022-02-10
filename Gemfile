@@ -13,6 +13,8 @@ gem 'simple_form', '~> 5.1'
 
 gem 'bcrypt', '~> 3.1', '>= 3.1.16'
 
+gem 'devise'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4', '>= 6.1.4.4'
 # Use postgresql as the database for Active Record
